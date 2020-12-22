@@ -6,4 +6,5 @@ Simple Firebase Realtime Database example is basically a simple application usin
 - Firebase Realtime Database SDK
 - jQuery
 - jQuery Template
+- jQuery Toast
 - AdminLTE HTML Template
