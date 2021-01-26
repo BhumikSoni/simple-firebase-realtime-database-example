@@ -10,4 +10,4 @@ Simple Firebase Realtime Database example is basically a simple application usin
 - AdminLTE HTML Template
 
 
-https://bhumiksoni.github.io/simple-firebase-realtime-database-example
+https://bhumiksoni.com/simple-firebase-realtime-database-example/
